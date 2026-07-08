@@ -1,0 +1,6 @@
+Review,Sentiment,Polarity
+"I love this product, it works great!",Positive,0.75
+This is the worst experience I’ve ever had.,Negative,-1.0
+"The service was okay, nothing special.",Positive,0.4285714285714286
+Absolutely fantastic! Highly recommend.,Positive,0.33
+Not worth the money.,Negative,-0.15
