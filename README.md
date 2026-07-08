@@ -1,7 +1,7 @@
-# CodeAlpha Internship - Task 4: Sentiment Analysis
+# CodeAlpha Internship - Task 3: Sentiment Analysis
 
 ## 📌 Project Overview
-This repository contains my submission for **Task 4: Sentiment Analysis** as part of the CodeAlpha Data Analytics Internship.  
+This repository contains my submission for **Task 3: Sentiment Analysis** as part of the CodeAlpha Data Analytics Internship.  
 The goal of this task is to analyze text data (such as reviews or social media posts) and classify it as positive, negative, or neutral using Natural Language Processing (NLP) techniques.
 
 ## 🛠️ Tools & Libraries
